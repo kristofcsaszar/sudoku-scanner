@@ -1,0 +1,1 @@
+This is a homework submission for the image processing course Képfeldolgozás (GKLB_INTM152) of Széchenyi University.
