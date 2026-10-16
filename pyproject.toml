@@ -7,7 +7,9 @@ authors = [
     { name = "Kristóf Császár", email = "csaszar.kristof.r@gmail.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "kagglehub>=1.0.2",
+]
 
 [project.scripts]
 sudoku-scanner = "sudoku_scanner:main"
